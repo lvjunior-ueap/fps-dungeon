@@ -1,0 +1,9 @@
+.import/
+.godot/
+*.pck
+*.exe
+*.apk
+.mono/
+.vscode/
+.DS_Store
+Thumbs.db
